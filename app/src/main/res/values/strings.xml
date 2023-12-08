@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SuitCase</string>
+    <string name="developer_name">Develop by: Olaniyi Salami</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="signin">Sign in to your account</string>
+    <string name="signup_title">Sign Up</string>
+    <string name="signin_subtitle">Create account to start add your items for next trip</string>
+
+
+    <string name="validateEmailError">Please input a valid email address</string>
+    <string name="validatePasswordError">Password should be mixture of</string>
+    <string name="validateFullnameError">Please full name field cant be empty</string>
+
+
+
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="order_details">Quantity: %1$s \nFlavor: %2$s \nPickup date: %3$s \nTotal: %4$s \n\nThank you!</string>
+    <string name="back_button">Back</string>
+
+
+    <string name="splash_screen_title">Splash</string>
+    <string name="onboard_screen_title">Onboarding</string>
+    <string name="login_screen_title">Login</string>
+    <string name="signup_screen_title">Signup</string>
+    <string name="forgot_screen_title">Forgot</string>
+    <string name="home_screen_title">Home</string>
+
+    <string name="settings_screen_title">Settings</string>
+    <string name="test_screen_title">Test</string>
+    <string name="page_under_settings_screen_title">Under Settings</string>
+    <string name="profile_screen_title">Profile</string>
+
+
+
+    <plurals name="cupcakes">
+        <item quantity="one">%d cupcake</item>
+        <item quantity="other">%d cupcakes</item>
+    </plurals>
+</resources>

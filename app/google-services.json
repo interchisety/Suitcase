@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103723650809",
+    "project_id": "suite-case-todo-list",
+    "storage_bucket": "suite-case-todo-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103723650809:android:5f9c8d753e8a7c68bf1c28",
+        "android_client_info": {
+          "package_name": "com.example.suitcase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWzS2LJs12UELN7DvsZJ1Anri3_U8pHco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
